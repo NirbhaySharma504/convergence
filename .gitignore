@@ -1,0 +1,8 @@
+# Build artifacts
+/build/
+/convergence
+/convergence-cli
+EXPLAINER.md
+# Runtime / WAL files
+*.wal
+node*.wal
